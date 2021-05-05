@@ -12,6 +12,7 @@
 		EFC630FC26425FEE00D33A75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFC630FB26425FEE00D33A75 /* Assets.xcassets */; };
 		EFC630FF26425FEE00D33A75 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFC630FE26425FEE00D33A75 /* Preview Assets.xcassets */; };
 		EFC63108264263F000D33A75 /* Pacifico-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EFC63107264263F000D33A75 /* Pacifico-Regular.ttf */; };
+		EFC6310C2642743200D33A75 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC6310B2642743200D33A75 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EFC630FE26425FEE00D33A75 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EFC6310026425FEE00D33A75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFC63107264263F000D33A75 /* Pacifico-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pacifico-Regular.ttf"; sourceTree = "<group>"; };
+		EFC6310B2642743200D33A75 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				EFC63106264263D600D33A75 /* Fonts */,
 				EFC630F726425FEC00D33A75 /* BusinessCardApp.swift */,
 				EFC630F926425FEC00D33A75 /* ContentView.swift */,
+				EFC6310B2642743200D33A75 /* InfoView.swift */,
 				EFC630FB26425FEE00D33A75 /* Assets.xcassets */,
 				EFC6310026425FEE00D33A75 /* Info.plist */,
 				EFC630FD26425FEE00D33A75 /* Preview Content */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFC630FA26425FEC00D33A75 /* ContentView.swift in Sources */,
+				EFC6310C2642743200D33A75 /* InfoView.swift in Sources */,
 				EFC630F826425FEC00D33A75 /* BusinessCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
